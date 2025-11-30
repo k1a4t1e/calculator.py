@@ -1,3 +1,4 @@
+#!/use/bin/env python3
 import tkinter as tk
 window = tk.Tk()
 window.title("My calculator")
