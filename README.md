@@ -8,3 +8,5 @@ Hello! I want to introduce you to my first Python project! It is a calculator wi
 5. Knows how to work with negative numbers.
 ## Screenshot
 ![Calculator screenshot](images/screeshot.calculator.png)
+## Calculator code
+The code from my calculator —>[calculator.py](calculator.py)
